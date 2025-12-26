@@ -3,7 +3,7 @@ import React from "react";
 import styled from "styled-components";
 
 // import MainVideo from "../assets/Walking Girl.mp4";
-import MainVideo from "../assets/chile_crema.mp4";
+import MainVideo from "../assets/ios_chile_crema.mp4";
 
 const VideoContainer = styled.section`
   width: 100%;
