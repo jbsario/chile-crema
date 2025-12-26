@@ -111,38 +111,38 @@ const CoverVideo = () => {
           >
             C
           </motion.h1>
-          <motion.h1
+          <motion.h2
             variants={item}
             data-scroll
             data-scroll-delay="0.09"
             data-scroll-speed="4"
           >
             h
-          </motion.h1>
-          <motion.h1
+          </motion.h2>
+          <motion.h2
             variants={item}
             data-scroll
             data-scroll-delay="0.06"
             data-scroll-speed="4"
           >
             i
-          </motion.h1>
-          <motion.h1
+          </motion.h2>
+          <motion.h2
             variants={item}
             data-scroll
             data-scroll-delay="0.04"
             data-scroll-speed="4"
           >
             l
-          </motion.h1>
-           <motion.h1
+          </motion.h2>
+           <motion.h2
             variants={item}
             data-scroll
             data-scroll-delay="0.04"
             data-scroll-speed="4"
           >
             e
-          </motion.h1>
+          </motion.h2>
            <motion.h1
             variants={item}
             data-scroll
@@ -159,38 +159,38 @@ const CoverVideo = () => {
           >
             C
           </motion.h1>
-           <motion.h1
+           <motion.h2
             variants={item}
             data-scroll
             data-scroll-delay="0.04"
             data-scroll-speed="4"
           >
             r
-          </motion.h1>
-            <motion.h1
+          </motion.h2>
+            <motion.h2
             variants={item}
             data-scroll
             data-scroll-delay="0.04"
             data-scroll-speed="4"
           >
             e
-          </motion.h1>
-            <motion.h1
+          </motion.h2>
+            <motion.h2
             variants={item}
             data-scroll
             data-scroll-delay="0.04"
             data-scroll-speed="4"
           >
             m
-          </motion.h1>
-            <motion.h1
+          </motion.h2>
+            <motion.h2
             variants={item}
             data-scroll
             data-scroll-delay="0.04"
             data-scroll-speed="4"
           >
             a
-          </motion.h1>
+          </motion.h2>
         </div>
         <motion.h2
           style={{ alignSelf: "flex-end" }}
