@@ -203,8 +203,19 @@ const CoverVideo = () => {
         </motion.h2>
       </Title>
 
-      <video src={MainVideo} type="video/mp4" autoPlay muted loop playsinline/>
-      
+      {/* <video src={MainVideo} type="video/mp4" autoPlay muted loop playsinline/> */}
+
+            <video
+  src={MainVideo}
+  type="video/mp4"
+  autoPlay
+  muted
+  loop
+  playsInline
+  preload="auto"
+  style={{ width: "100%", height: "100%", objectFit: "cover" }}
+/>
+
     </VideoContainer>
   );
 };
